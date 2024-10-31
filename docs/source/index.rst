@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
+Elon Nguyen - Tổng biên tập thương hiệu 9Bet 
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Tôi là `Elon Nguyen <https://9bet.link/elon-nguyen-9bet/>`_ Chuyên gia phân tích cược và Tổng biên tập của thương hiệu 9BET, là người tiên phong trong lĩnh vực cá cược và đầu tư thông minh. Với kiến thức và kinh nghiệm của mình, tôi đã dẫn dắt đội ngũ chuyên gia 9BET xây dựng nên một thương hiệu nhà cái uy tín, cung cấp các bài phân tích chi tiết về kèo cược và các xu hướng thị trường. Đội ngũ của tôi không chỉ đưa ra những dự đoán chính xác mà còn mang đến cái nhìn mới mẻ, giúp người chơi tiếp cận thông tin chuẩn xác để tối ưu hóa chiến lược cá cược của mình.
+Ngày sinh: 1/6/1988
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: C43 Nguyễn Văn Thương, Phường 25, Bình Thạnh, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0753465841. 
 
-Contents
---------
+Email: contact@9bet.link. 
 
-.. toctree::
+Website: https://9bet.link/elon-nguyen-9bet/
 
-   usage
-   api
+#elonnguyen #elonnguyen #elonnguyen9bet
